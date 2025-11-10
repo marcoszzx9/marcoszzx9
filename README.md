@@ -35,4 +35,6 @@
 
 ---
 
-```md
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcoszzx9/marcoszzx9/output/dist/snake.svg" />
+</p>
