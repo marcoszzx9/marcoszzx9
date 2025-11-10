@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9f5fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+GitHub!;Eu+sou+o+Marco+👋;Desenvolvedor+em+constante+evolução!">
+</p>
 
-<!--
-**marcoszzx9/marcoszzx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌙 Sobre mim
+• Curioso, sempre explorando ideias novas  
+• Construindo projetos para aprender e crescer  
+• Vivendo no modo **"como isso funciona?"** 👀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-9f5fff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7b3ff2?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5c2cd9?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3d1bbf?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoszzx9&show_icons=true&theme=dracula&title_color=9f5fff&icon_color=9f5fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoszzx9&layout=compact&theme=dracula&title_color=9f5fff)
+
+</div>
+
+---
+
+```md
