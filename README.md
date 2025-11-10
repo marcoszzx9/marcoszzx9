@@ -36,7 +36,3 @@
 ---
 ```md
 ![snake gif](https://github.com/marcoszzx9/marcoszzx9/blob/output/github-contribution-grid-snake.svg)
-
-<p>
-  <img src="https://raw.githubusercontent.com/marcoszzx9/marcoszzx9/output/dist/snake.svg"/>
-</p>
