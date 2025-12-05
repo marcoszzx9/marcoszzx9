@@ -21,16 +21,3 @@
 ![Python](https://img.shields.io/badge/Python-3d1bbf?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoszzx9&show_icons=true&theme=dracula&title_color=9f5fff&icon_color=9f5fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoszzx9&layout=compact&theme=dracula&title_color=9f5fff)
-
-</div>
-
----
